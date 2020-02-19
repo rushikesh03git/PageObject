@@ -28,6 +28,10 @@ public class Loginapplication {
 		
 		System.out.println("Checking git push command");
 		
+		System.out.println("Second person pusshing code");
+		System.out.println("Second person pusshing code_1");
+		System.out.println("Second person pusshing code_2");
+		System.out.println("Second person pusshing code_3");
 		
 		
 		
