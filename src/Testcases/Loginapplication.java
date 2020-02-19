@@ -26,6 +26,8 @@ public class Loginapplication {
 		rh.Search().sendKeys("rediff");
 		rh.Submit().click();
 		
+		System.out.println("Checking git push command");
+		
 		
 		
 		
